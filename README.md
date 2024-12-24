@@ -43,7 +43,6 @@ If you’d like to collaborate on a project that could benefit from Sketchnotes,
 ## JugSummerCamp 2023
 
 [JugSummerCamp](https://www.jugsummercamp.org/edition/15) Tech conference in La Rochelle, Bordeaux.
-https://youtube.com/playlist?list=PL4Z_Bm3ccVwf0w1N0sHqww80I2MZuXp4Z&feature=shared
 
 [Sketchnotes here](./JugSummerCamp%202023/)
 

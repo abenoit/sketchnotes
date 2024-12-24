@@ -1,5 +1,7 @@
 # JugSummerCamp 2023
 
+All the conference's recordings are [here](https://youtube.com/playlist?list=PL4Z_Bm3ccVwf0w1N0sHqww80I2MZuXp4Z&feature=shared)
+
 ## (Et si on apprenait à) Apprendre et partager autrement
 
 By **Aurélie Vache**
