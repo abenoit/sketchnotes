@@ -1,6 +1,4 @@
-# DotJS 2024
-
-All the recordings are available [here](https://youtube.com/playlist?list=PLMW8Xq7bXrG7fOUOLJQw9I7ygJCbue9zO&feature=shared).
+# Misc
 
 ## Server Side rendering 
 
